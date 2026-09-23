@@ -1,1 +1,2 @@
-echo 'Version officielle sur la branche main'
+
+echo 'Version corrige et validee'
